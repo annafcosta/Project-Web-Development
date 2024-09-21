@@ -1,0 +1,25 @@
+h1 {
+    list-style-position: inside;
+    border: 1px solid #A594F9;
+    background-color: #A594F9;
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bolder;
+}
+
+h2 {
+    list-style-position: inside;
+    border: 1px solid #CDC1FF;
+    background-color: #CDC1FF;
+    padding: 5px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+* {
+    text-align: center;
+    background-color: #F5EFFF;
+}
