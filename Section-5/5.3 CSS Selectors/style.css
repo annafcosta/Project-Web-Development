@@ -1,0 +1,40 @@
+ol {
+    margin-top: -20px;
+    list-style-position: inside;
+    border: 1px solid #fff7e4;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #fff7e4;
+}
+
+h1 {
+    list-style-position: inside;
+    border: 1px solid pink;
+    background-color: pink;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+h2 {
+    border: 1px solid cornflowerblue;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    padding: 10px;
+    color: ghostwhite;
+}
+
+.note {
+    font-size: 20px;
+}
+
+#id-selector-demo {
+    color: dodgerblue;
+}
+
+li[value="4"] {
+    color: mediumslateblue;
+}
+
+* {
+    text-align: center;
+}
