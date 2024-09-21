@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&family=Playwrite+DE+Grund:wght@100..400&display=swap');
+
+* {
+    background-color: #667BC6;
+    color: white;
+}
+
+h1 {
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid #DA7297;
+    background-color: #DA7297;
+    padding: 5px;
+    border-radius: 40px;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    font-family: "Playpen Sans", sans-serif;
+}
+
+#color {
+    font-size: 2rem;
+    font-family: "Playwrite Deutschland Grundschrift", sans-serif;
+    color: #FFB4C2;
+    font-weight: bolder;
+}
+
+#font-size{
+    font-size: 2.5rem;
+    font-family: "Playwrite Deutschland Grundschrift", sans-serif;
+    color: #FFB4C2;
+    font-weight: bolder;
+}
+
+#font-weight{
+    font-size: 2rem;
+    font-family: "Playwrite Deutschland Grundschrift", sans-serif;
+    color: #FFB4C2;
+    font-weight: lighter;
+}
+
+#font-family{
+    font-size: 2.5rem;
+    font-family: "Playpen Sans", sans-serif;
+    color: #FDFFD2;
+    font-weight: bolder;
+}
+
+#align{
+    font-size: 1rem;
+    font-family: "Playpen Sans", sans-serif;
+    color: #FDFFD2;
+    width: 40%;
+    margin: 0 auto;
+    border: 2px solid darkslateblue;
+    background-color: darkslateblue;
+    border-radius: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
