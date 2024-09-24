@@ -27,8 +27,8 @@ body {
     display: inline;
     margin-right: 20px;
     vertical-align: top;
-    height: 280px;
-    width: 580px;
+    height: 200px;
+    width: 420px;
 }
 
 .image2 img {
@@ -36,8 +36,8 @@ body {
     margin-top: 35px;
     margin-right: 20px;
     vertical-align: top;
-    height: 280px;
-    width: 580px;
+    height: 200px;
+    width: 420px;
 }
 
 .image3 img {
@@ -45,8 +45,8 @@ body {
     margin-top: 35px;
     margin-right: 20px;
     vertical-align: top;
-    height: 280px;
-    width: 580px;
+    height: 200px;
+    width: 420px;
 }
 
 /* TITLE FORMATTING */
