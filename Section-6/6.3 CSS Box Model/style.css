@@ -1,22 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
 
-.image1 img {
-    display: inline-block;
-    margin-left: 31px;
-    margin-right: 15px;
-    vertical-align: top;
-    height: 280px;
-    width: 580px;
-}
-
-.image2 img {
-    display: inline-block;
-    margin-top: 20px;
-    margin-left: 31px;
-    margin-right: 15px;
-    vertical-align: top;
-    height: 280px;
-    width: 580px;
+body {
+    width: 100%;
 }
 
 * {
@@ -24,17 +9,71 @@
     color: white;
 }
 
+/* DIV FORMATTING */
+#div1 {
+    display: flex;
+}
+
+#div2 {
+    display: flex;
+}
+
+#div3 {
+    display: flex;
+}
+
+/* IMAGE FORMATTING */
+.image1 img {
+    display: inline;
+    margin-right: 20px;
+    vertical-align: top;
+    height: 280px;
+    width: 580px;
+}
+
+.image2 img {
+    display: inline-block;
+    margin-top: 35px;
+    margin-right: 20px;
+    vertical-align: top;
+    height: 280px;
+    width: 580px;
+}
+
+.image3 img {
+    display: inline-block;
+    margin-top: 35px;
+    margin-right: 20px;
+    vertical-align: top;
+    height: 280px;
+    width: 580px;
+}
+
+/* TITLE FORMATTING */
 h1 {
-    margin: 20px auto;
-    width: 40%;
+    width: 13%;
+    margin-left: 40px;
     border: 2px solid #162d47;
     padding-bottom: 5px;
-    padding-top: 20px;
-    border-radius: 40px;
+    padding-top: 15px;
+    border-radius: 25px;
     color: #F8F6F4;
     background-color: #162d47;
-    font-size: 3rem;
+    font-size: 30px;
     font-weight: 500;
     text-align: center;
     font-family: "Tajawal", sans-serif;
+}
+
+/* ASIDE FORMATTING */
+aside {
+    float: left;
+    margin-left: 40px;
+    margin-right: 60px;
+    border: 2px solid #162d47;
+    padding: 10px;
+    border-radius: 25px;
+    color: #162d47;
+    width: 229px;
+    height: 800px;
 }
