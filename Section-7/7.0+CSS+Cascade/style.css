@@ -1,0 +1,51 @@
+/* Don't change the existing CSS. */
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&display=swap');
+
+body {
+    width: 100%;
+}
+
+#outer-box {
+    background-color: #DB6B97;
+    border: 1px solid #DB6B97;
+    border-radius: 20px;
+    height: auto;
+    margin: 20px auto;
+}
+
+.box1 {
+    background-color: #F2FFE9;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.box2 {
+    background-color: #F2FFE9;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+
+p {
+    color: #557C55;
+    font-size: 2rem;
+    font-family: 'Dongle', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.inner-box {
+    background-color: #A6CF98;
+    border-radius: 10px;
+}
+
+.white-text{
+    color: darkolivegreen;
+}
+
+
