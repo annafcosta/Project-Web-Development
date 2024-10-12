@@ -1,0 +1,23 @@
+h1, h2 {
+    color: #DA7297;
+}
+
+.box > .done {
+    color: #667BC6;
+}
+
+.box li {
+    color: #557C55;
+}
+
+li.done {
+    color: #A6CF98;
+}
+
+ul p.done {
+    font-size: 0.5rem;
+}
+
+p {
+    color: #002868;
+}
